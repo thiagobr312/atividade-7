@@ -1,0 +1,56 @@
+body{
+    background-image:url("background.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-origin: initial;
+}
+#titulo{
+    text-align: center;
+    color: rgb(204, 135, 32);
+    font-family: Blackadder ITC; 
+    font-size: 40px;
+}
+#menu ul{
+    background-color: rgba(20, 20, 20, 0.966);
+    margin: 10%;
+    list-style: none;
+    text-align: center;
+    border-radius: 10px;
+}
+#menu ul li{
+    display: inline;
+}
+#menu ul li a{
+    padding: 10px 50px;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-family: Blackadder ITC;
+    font-size: 30px;
+}
+#menu ul li a:hover{
+    color:black;
+}
+#background-box{
+    background-color: rgba(20, 20, 20, 0.966);
+    padding: 30px 10px;
+    margin: 10%;
+    text-align: left;
+    color: rgb(182, 182, 182); 
+    font-family: Baskerville Old Face;
+    font-size: 20px;
+    border-radius: 10px;
+}
+h5{
+    font-family: Blackadder ITC;
+    font-size: 25px;
+}
+h1{
+    text-align: center;
+    color: rgb(204, 135, 32);
+    font-family: Blackadder ITC; 
+    font-size: 40px;
+}
+
